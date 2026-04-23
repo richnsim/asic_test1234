@@ -9,10 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-IN | RISE | FALL
-----------------
-R  |  1   |  0 
-F  |  0   |  1
+BlaBla
 
 ## How to test
 
